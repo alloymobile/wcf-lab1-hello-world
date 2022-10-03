@@ -1,0 +1,8 @@
+D:\wcf\wcf-lab1-hello-world\HelloWorld\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\wcf\wcf-lab1-hello-world\HelloWorld\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\wcf\wcf-lab1-hello-world\HelloWorld\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\wcf\wcf-lab1-hello-world\HelloWorld\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\wcf\wcf-lab1-hello-world\HelloWorld\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\wcf\wcf-lab1-hello-world\HelloWorld\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\wcf\wcf-lab1-hello-world\HelloWorld\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\wcf\wcf-lab1-hello-world\HelloWorld\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
